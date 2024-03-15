@@ -1,0 +1,21 @@
+h3.welcome{
+    display: inline;
+}
+
+h1.welcome{
+    display: inline;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+}
+
+.gridbox{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    /* padding: 100px;  */
+}
