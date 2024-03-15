@@ -1,10 +1,14 @@
 h3.welcome{
     display: inline;
-    margin-left: 50px;
+    margin-left: 200px;
 }
 
 h1.welcome{
     display: inline;
+    
+}
+h3.description{
+    margin-left: 200px;
 }
 
 .navbar{
@@ -19,5 +23,11 @@ h1.welcome{
     grid-template-columns: auto auto;
     grid-gap: 30px;
     padding: 300px;
+    align-self: center;
+     
+}
 
+.topic{
+    margin-left: 200px;
+    
 }
