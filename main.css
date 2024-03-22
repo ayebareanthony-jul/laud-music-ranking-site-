@@ -30,7 +30,7 @@ h3.description{
     display: grid;
     grid-template-columns: auto auto;
     grid-gap: 30px;
-    padding: 300px;
+    : ;
     align-self: center;
      
 }
